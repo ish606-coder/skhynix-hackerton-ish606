@@ -1,0 +1,6 @@
+﻿source_row,case_id,heat_W,inlet_C,flow_L_min,max_temp_C,temperature_status,recommended
+2,C01,100,20,1.0,55,미통과,아니오
+3,C02,100,20,1.5,48,통과,아니오
+4,C03,100,20,2.0,44,통과,아니오
+5,C04,100,20,2.5,42,통과,아니오
+9,C07,100,20,1.2,50,통과,예
